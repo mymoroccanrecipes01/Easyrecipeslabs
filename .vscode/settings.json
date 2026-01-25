@@ -1,0 +1,5 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "liveServer.settings.port": 5503
+}

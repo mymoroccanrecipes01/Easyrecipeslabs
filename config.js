@@ -1,0 +1,9 @@
+globalThis.facebookURL = "#";
+globalThis.PinterestURL = "https://www.pinterest.com/hayeslummy";
+globalThis.twitterURL = "#";
+globalThis.redditURL = "#";
+globalThis.siteUrl = 'https://easyrecipeslabs.com';
+globalThis.homepageTitle = 'Easy Recipes Labs';
+globalThis.homepageTagline = 'Easy Recipes Labs - Simple Recipes for Every day';
+globalThis.email = 'contact@easyrecipeslabs.com';
+globalThis.copyright = '2023 - 2024 Easy Recipes Labs. All rights reserved.';
