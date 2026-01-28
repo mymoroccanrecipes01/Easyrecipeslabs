@@ -1,135 +1,239 @@
 {
     "id": "recipe_1762794187_218",
     "slug": "best-green-bean-recipe-for-healthy-families",
-    "title": "Best Green Bean Recipe for Healthy Families",
-    "promptIMG": "Best green bean recipe, on plate, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures, modern kitchen background in sharp focus, natural lighting, kitchen countertop visible, even focus distribution, documentary food photography, natural sharpness --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --raw --stylize 300",
-    "isOnline": false,
-    "description": "Discover the ultimate green bean recipe that combines simplicity and flavor. This dish is perfect for family dinners and is sure to impress. Try it tonight and elevate your vegetable game!",
-    "category_id": "cat_1761230636_499",
-    "author_id": "author_001",
-    "ingredients": [
-        "1 pound green beans, trimmed",
-        "2 tablespoons olive oil",
-        "Salt and pepper to taste"
-    ],
-    "instructions": [
-        "Heat olive oil in a large skillet over medium heat.",
-        "Add green beans and sauté for 5-7 minutes until tender-crisp.",
-        "Season with salt and pepper before serving."
-    ],
-    "prep_time": 15,
-    "cook_time": 30,
-    "total_time": 45,
+    "title": "Sautéed Green Beans: Temperature Control and the Science of Crisp-Tender Texture",
+    "promptIMG": "Professional food photography: sautéed green beans in cast iron skillet, natural window lighting, sharp focus throughout entire image, realistic food textures, kitchen countertop visible, minimal depth of field, even focus distribution, documentary food photography style, professional food styling, appetizing presentation --no blur, bokeh, artificial enhancement --quality 2 --ar 4:3 --stylize 300",
+    "isOnline": true,
+    "description": "Learn to cook green beans with crisp-tender texture by understanding heat management and proper cooking technique. Discover why temperature control matters more than ingredients, how to blanch for optimal results, and troubleshooting solutions for common texture problems.",
+    "hashtags": "#greenbeans #vegetableside #cookingscience #homecooking #healthyeating",
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 12,
+    "total_time": 22,
     "servings": 4,
-    "difficulty": "easy",
-    "tips": "For perfect green beans, avoid overcooking to maintain their vibrant color and crunch.",
-    "structured_content": [
+    "yield": "Approximately 4 cups cooked green beans, 4 servings",
+    "ingredients": [
+        "1 pound (450g) fresh green beans, stem ends trimmed",
+        "2 tablespoons (30ml) olive oil or butter, divided",
+        "1\/2 teaspoon (3g) fine sea salt, plus more to taste",
+        "1\/4 teaspoon (0.5g) black pepper",
+        "Optional: 2 cloves (10g) garlic, thinly sliced, or 1\/4 teaspoon (0.5g) red pepper flakes for heat"
+    ],
+    "why_this_recipe_works": "<p>Green bean texture depends entirely on understanding cell structure and how heat affects it. Fresh green beans contain cell walls made of cellulose and hemicellulose. When exposed to heat, these cell walls soften gradually. The challenge is achieving crisp-tender texture—soft enough to bite through easily, but firm enough to resist becoming mushy or limp. This requires precise timing and temperature control, not complicated ingredients or techniques.<\/p><p>The ideal cooking temperature for green beans is around 180-190°F (82-88°C), which softens the cell walls without breaking them down completely. If you boil green beans at 212°F (100°C), the cell walls break down too quickly and the beans become mushy in minutes. If you cook at a lower temperature, say 160°F (71°C), the beans remain too firm and taste slightly raw. This is why the pan-searing method works so well—the initial high heat creates browning for flavor development, then you reduce heat to finish cooking gently.<\/p><p>Blanching before sautéing is optional but useful because it allows you to control cooking more precisely. Blanching means briefly boiling the beans (usually 3-4 minutes) then immediately shocking them in ice water to stop cooking. This sets the bright green color by denaturing chlorophyll, which turns the color from green to olive-gray when exposed to heat over time. After blanching and shocking, you can finish the beans by sautéing them briefly, which adds flavor without risk of overcooking.<\/p><p>Salt plays a crucial role beyond flavor. Salt affects water's boiling point and helps season the beans throughout, not just on the surface. Adding salt early in cooking (either to blanching water or to the sauté pan) allows it to penetrate the bean's interior. If you salt only at the end, the salt stays on the surface and flavors only the outside. The bean's natural sweetness becomes more pronounced when properly seasoned early.<\/p>",
+    "instructions": [
         {
-            "content": "<p>Green beans are a classic side dish that can elevate any meal. This recipe showcases their natural flavor while keeping things simple and healthy.<\/p>"
+            "step": 1,
+            "instruction": "Trim the stem end of each green bean by cutting off approximately 1\/4 inch (0.5cm). Leave the tapered tail end intact. Rinse the beans under cold running water and pat completely dry using a clean kitchen towel. Moisture on the surface prevents proper browning and creates steam, which makes the beans soften too quickly. Dry beans brown more effectively and develop deeper flavor during the sauté.",
+            "timing": "5-10 minutes",
+            "doneness_cue": "Beans are completely dry with no visible moisture, stem ends are cleanly cut, beans are ready to cook"
         },
         {
-            "note": {
-                "label": "Why You'll Love This Recipe",
-                "content": "<ul><li>Quick and easy to make in under 30 minutes<\/li><li>Restaurant-quality flavors at home<\/li><li>Perfect for weeknight dinners or entertaining<\/li><li>Uses simple ingredients you likely have on hand<\/li><li>Great for gluten-free and vegetarian diets<\/li><\/ul>"
-            }
+            "step": 2,
+            "instruction": "If you want guaranteed crisp-tender texture, blanch the beans first. Bring a large pot of water to a rolling boil. Add 1 tablespoon (15g) of salt to the water—this seasons the beans and raises the boiling point slightly, preserving color. Add the green beans all at once and stir with a spoon to prevent sticking. Simmer for exactly 3-4 minutes. The beans should still have some firmness when you test them with a fork; they will finish cooking later during sautéing. At 3 minutes, test a bean—it should bend easily but still have slight resistance when bitten.",
+            "timing": "3-4 minutes",
+            "doneness_cue": "Beans turn bright green, tender but still slightly firm when bitten, no softness or wilting"
         },
         {
-            "content": "<p>Growing up, green beans were a staple at our family dinners. This recipe brings back memories of gathering around the table, enjoying the fresh taste of vegetables.<\/p>"
+            "step": 3,
+            "instruction": "While the beans blanch, prepare an ice bath by filling a large bowl with ice and cold water. Once the beans have blanched for 3-4 minutes, use a slotted spoon to transfer them immediately to the ice bath. This 'shocking' stops the cooking process instantly. Leave the beans in the ice bath for 2-3 minutes until completely cold to the touch. This step preserves the bright green color and prevents further softening. After shocking, drain the beans completely and pat dry with a towel. This step is optional if you prefer faster preparation, but it guarantees the best color and texture control.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Beans are completely cold, bright green color is set, no warmth remains"
         },
         {
-            "headline": "Gather Your Ingredients"
+            "step": 4,
+            "instruction": "Place a large skillet (preferably stainless steel or cast iron) over medium-high heat. Add 1 tablespoon (15ml) of oil and allow it to heat for 30 seconds until it shimmers. The oil should move freely across the pan and develop a slight sheen, indicating a temperature around 350-375°F (175-190°C). Add the green beans, spreading them in an even layer. It's okay if they overlap slightly, but avoid crowding the pan completely, as this prevents browning. If necessary, cook in two batches.",
+            "timing": "30 seconds to heat oil",
+            "doneness_cue": "Oil shimmers and moves freely, a slight wisp of smoke may appear, pan is noticeably hot to the touch from above"
         },
         {
-            "content": "<ul><li><strong>Main ingredient:<\/strong> Fresh green beans work best for this recipe; look for vibrant, firm beans.<\/li><li><strong>Key seasonings\/flavoring agents:<\/strong> Olive oil adds richness, while salt and pepper enhance the natural flavor.<\/li><li><strong>Supporting ingredients:<\/strong> You can add garlic or lemon zest for an extra flavor boost.<\/li><li><strong>Equipment needed:<\/strong> A large skillet and a spatula for stirring.<\/li><\/ul>"
+            "step": 5,
+            "instruction": "Let the beans cook undisturbed for 2-3 minutes. This allows the beans' surface to make contact with the hot pan and develop light browning. Browning creates new flavor compounds through the Maillard reaction, making the beans taste more developed and complex. You'll notice the beans' color darken slightly from bright green to a deeper green-brown. After 2-3 minutes, stir the beans with a spoon or shake the pan frequently, cooking for another 3-4 minutes total. The goal is light browning on some surfaces, not a dark char. The beans should remain tender, not crispy.",
+            "timing": "2-3 minutes undisturbed, then 3-4 minutes with stirring (5-7 minutes total)",
+            "doneness_cue": "Beans have light golden-brown coloring on some surfaces, remain tender when tested with a fork, bright green color is mostly retained with some browning"
         },
         {
-            "upload": {
-                "context": "Image of fresh green beans ready for cooking.",
-                "url": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_1.webp",
-                "fileName": "best-green-bean-recipe-for-healthy-families_image_1.webp",
-                "type": "main"
-            }
+            "step": 6,
+            "instruction": "Add 1\/2 teaspoon (3g) of salt and 1\/4 teaspoon (0.5g) of black pepper. If using garlic or red pepper flakes, add them now and stir immediately. The residual heat will cook the garlic briefly, releasing its aroma. Stir everything together well and cook for another 1-2 minutes. The beans should be hot throughout and well-seasoned. Taste a bean to check for seasoning; you can add more salt if needed, but remember the salt seasons more effectively if added early rather than tasted at the very end.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "Garlic is fragrant and slightly golden (if using), beans are evenly coated with oil, seasoning is well-distributed, beans are hot throughout"
         },
         {
-            "headline": "How to Make It"
-        },
-        {
-            "content": "<dl><dt><strong>Preparation:<\/strong><\/dt><dd>Trim the ends of the green beans and rinse them under cold water.<\/dd><dt><strong>Cooking Process:<\/strong><\/dt><dd>Heat the olive oil in a skillet, add the green beans, and sauté until tender-crisp.<\/dd><dt><strong>Finishing Touches:<\/strong><\/dt><dd>Season with salt and pepper, and serve immediately.<\/dd><\/dl>"
-        },
-        {
-            "upload": {
-                "context": "Image of the green beans being sautéed in the skillet.",
-                "url": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_2.webp",
-                "fileName": "best-green-bean-recipe-for-healthy-families_image_2.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "You Must Know",
-                "content": "<ul><li>Cook green beans until they are bright green and tender-crisp for the best texture.<\/li><li>Avoid overcooking, as they can become mushy.<\/li><li>They are ready when they are vibrant in color and tender but still have a slight crunch.<\/li><li>Store leftovers in an airtight container in the fridge for up to 3 days.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Sharing this dish with family brings joy to our gatherings, reminding us of the importance of fresh vegetables in our meals.<\/p>"
-        },
-        {
-            "headline": "Flavor Boosters"
-        },
-        {
-            "content": "<p>Enhance this dish by adding toasted almonds, crumbled feta, or a squeeze of lemon juice for a zesty twist.<\/p>"
-        },
-        {
-            "headline": "Serving Suggestions"
-        },
-        {
-            "content": "<p>Serve alongside grilled chicken, fish, or as part of a larger vegetable medley for a colorful plate.<\/p>"
-        },
-        {
-            "headline": "Creative Variations"
-        },
-        {
-            "content": "<p>For a vegan option, simply omit any cheese and add more spices. You can also try adding different vegetables like bell peppers or carrots.<\/p>"
-        },
-        {
-            "upload": {
-                "context": "Image of the final plated green beans with garnishes.",
-                "url": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_3.webp",
-                "fileName": "best-green-bean-recipe-for-healthy-families_image_3.webp",
-                "type": "main"
-            }
-        },
-        {
-            "note": {
-                "label": "Pro Tips",
-                "content": "<ul><li>Blanch green beans before sautéing for extra tenderness.<\/li><li>Use fresh herbs like thyme or basil for added flavor.<\/li><li>Timing is key; keep an eye on the beans to avoid overcooking.<\/li><li>Garnish with lemon zest for a beautiful presentation.<\/li><\/ul>"
-            }
-        },
-        {
-            "content": "<p>Enjoy the satisfaction of making this simple yet delicious green bean recipe that your family will love!<\/p>"
+            "step": 7,
+            "instruction": "Transfer the beans to a serving dish immediately. Leaving them in the hot pan continues cooking them slightly, risking overcooked texture. If serving fresh, present the beans while still warm and enjoy them at their best texture—tender but still with slight firmness that provides pleasant resistance when bitten. If holding for a short time (up to 30 minutes), transfer to a warm bowl and cover loosely. Do not seal tightly, as trapping steam will continue to soften the beans.",
+            "timing": "0 minutes (serving)",
+            "doneness_cue": "Beans are transferred immediately, still steaming, bright green color is vibrant, texture is crisp-tender"
         }
     ],
+    "pro_tips": [
+        {
+            "tip": "Blanching is optional but highly recommended if you want perfect texture every time. It removes the guesswork from cooking time and guarantees bright green color. The initial boil sets the color before any browning occurs, preserving the vibrant hue.",
+            "reason": "Without blanching, you're relying solely on the sauté pan to cook the beans to exactly the right point. Overcooked beans become mushy and gray-green. Blanching and shocking first, then finishing in the pan, gives you complete control over final texture and color."
+        },
+        {
+            "tip": "Use fresh green beans within 2-3 days of purchase. Beans stored longer begin to lose moisture and develop a slightly woody texture. Look for beans that are bright green, firm, and snap when bent, not ones that bend without resistance.",
+            "reason": "Older beans contain less water and more fiber, causing them to cook faster and texture unevenly. A truly fresh bean cooks more consistently and tastes sweeter. This is one case where ingredient quality directly impacts the final result."
+        },
+        {
+            "tip": "Don't skip the drying step after rinsing. Wet beans create steam in the pan, which softens them before you want them softened. Completely dry beans brown more effectively and cook more predictably.",
+            "reason": "Steam cooking is moist heat that softens vegetables slowly. Dry heat (sautéing) creates browning and flavor development. The two cooking methods produce different results, and you want the control that dry heat provides."
+        },
+        {
+            "tip": "If not blanching first, use medium heat rather than medium-high for the entire sauté. This slower cooking gives you more time to catch the beans before they overcook. At medium-high heat without blanching, beans can overcook very quickly.",
+            "reason": "Raw beans need time to soften. High heat might brown the outside before the inside softens enough, or it might accelerate cell wall breakdown too quickly. Medium heat provides slower, more controlled cooking."
+        },
+        {
+            "tip": "Salt early. Add salt to blanching water or early in the sauté, not just at the end. Salt penetrates the bean gradually, seasoning it throughout rather than just on the surface.",
+            "reason": "Salt only affects the surface if added at the end. Early salting allows osmosis to carry salt into the bean's interior, resulting in more balanced flavor throughout the vegetable rather than only on the outside."
+        },
+        {
+            "tip": "Taste the beans before serving and adjust seasoning. Different brands of green beans vary slightly in natural sweetness, and this affects how much salt they need. Some beans taste better with a pinch more salt or a crack of black pepper.",
+            "reason": "Cooking is not one-size-fits-all. Tasting and adjusting is how experienced cooks ensure their food is seasoned to their preference. Trusting the recipe is good; adjusting based on your actual tasting is better."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking green beans at a hard boil or with the lid on the pan, resulting in mushy, overcooked texture",
+            "why_it_happens": "People assume higher heat means faster cooking and better results. Boiling vigorously softens cell walls too quickly, and steam (if lid is on) continues the softening. By the time you think to check them, they're already overdone.",
+            "fix": "Use medium to medium-high heat, keep the pan uncovered, and stir frequently. Stop cooking when beans are tender but still slightly firm. If using blanching, remove them slightly underdone from the boil, then finish in the sauté pan where you can control heat precisely."
+        },
+        {
+            "mistake": "Adding seasonings only at the very end, resulting in beans that taste bland throughout with only surface seasoning",
+            "why_it_happens": "It seems logical to season at the end when you can taste everything together. But salt added late cannot penetrate to the bean's interior in the short time remaining.",
+            "fix": "Add salt early—to blanching water or at the beginning of sautéing. Season to taste at the end if needed, but most seasoning should happen early in cooking."
+        },
+        {
+            "mistake": "Cooking wet beans or skipping the drying step, resulting in steamed rather than sautéed texture",
+            "why_it_happens": "Rinsing the beans is necessary for cleanliness, but people don't realize that water left on the beans will steam them rather than allow browning. Steaming softens the beans but doesn't develop the same flavor as browning does.",
+            "fix": "After rinsing, pat the beans completely dry with a clean towel before cooking. Dry beans brown more effectively and cook with more control."
+        },
+        {
+            "mistake": "Overcrowding the pan with too many beans at once, preventing browning and causing steaming instead",
+            "why_it_happens": "People want to be efficient and cook everything at once. But too many beans in the pan lower the temperature and trap steam, preventing the dry, high-heat cooking that creates browning and flavor.",
+            "fix": "Spread beans in a single layer with some space between them. If necessary, cook in two batches. The extra few minutes is worth the improved flavor and texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Garlic and Red Pepper Green Beans",
+            "description": "Add 3-4 cloves (15g) of thinly sliced garlic and 1\/4 teaspoon (0.5g) of red pepper flakes to the pan in step 6. The garlic becomes slightly golden and fragrant, adding a pungent, savory note. The red pepper provides gentle heat without overwhelming the beans' delicate flavor.",
+            "technical_note": "Garlic contains compounds that become aromatic when heated, contributing sulfur-based flavors that deepen when browned. Red pepper flakes' capsaicin (the compound responsible for heat) distributes evenly when stirred into hot oil. Add after the beans have begun browning so the garlic doesn't burn before the beans finish cooking."
+        },
+        {
+            "name": "Toasted Almond and Herb Green Beans",
+            "description": "Toast 1\/2 cup (60g) of sliced almonds in a dry pan over medium heat for 3-4 minutes until fragrant and slightly golden. Set aside. Cook the green beans as directed, then toss with the toasted almonds and 1 tablespoon (5g) of fresh thyme or basil, added just before serving.",
+            "technical_note": "Toasting almonds develops their oils and brings out their natural sweetness through the Maillard reaction. Fresh herbs added at the very end preserve their aromatic compounds, which can be lost if cooked too long. Toasted nuts stay crisp even after tossing with warm beans."
+        },
+        {
+            "name": "French-Style Haricots Verts",
+            "description": "Use thin green beans if available (also called haricots verts), which are smaller and more delicate than regular green beans. Blanch for only 2-3 minutes instead of 3-4. Finish with butter instead of oil (use 1.5 tablespoons \/ 20g of butter) and a squeeze of fresh lemon juice (about 1\/2 lemon, 25ml). The thinner beans cook faster and have a more delicate texture.",
+            "technical_note": "Haricots verts have thinner cell walls than standard green beans and cook much faster. Their delicate texture requires careful timing—even 1 minute of additional cooking can result in mushiness. Butter adds richness and a creamy mouthfeel compared to oil. Lemon juice's acid brightens the overall flavor and prevents the dish from tasting heavy."
+        },
+        {
+            "name": "Asian-Style Green Beans with Sesame",
+            "description": "Use sesame oil instead of olive oil (1 tablespoon \/ 15ml) combined with 1 tablespoon (15ml) of neutral oil. Add 2 tablespoons (30ml) of soy sauce and 1\/2 teaspoon (2g) of sesame seeds to the beans in step 6. The sesame oil imparts a toasted, nutty aroma.",
+            "technical_note": "Sesame oil has a lower smoke point than olive oil (around 350°F \/ 175°C) and burns easily if overheated. Mixing it with neutral oil raises the smoke point while preserving the flavor. Soy sauce adds umami and saltiness, so reduce additional salt by half. Sesame seeds add textural contrast and toasted flavor."
+        },
+        {
+            "name": "Buttered Green Beans with Lemon Zest",
+            "description": "Replace oil with 1.5 tablespoons (20g) of unsalted butter. Finish the beans with the zest of 1 fresh lemon (about 1 tablespoon \/ 5g of zest) and a squeeze of lemon juice (about 1 teaspoon \/ 5ml). The butter creates a silky coating and the lemon zest adds bright, sharp flavor.",
+            "technical_note": "Butter browns at 350°F (175°C), lower than olive oil. If using butter instead of oil, use medium heat rather than medium-high to prevent burning. Lemon zest contains aromatic oils that provide citrus flavor without acidity, while juice provides acidity and brightness. Adding both creates complex lemon flavor."
+        }
+    ],
+    "nutrition": {
+        "servings": 4,
+        "calories_per_serving": "approximately 90",
+        "protein_grams": "2.5g",
+        "carbohydrates_grams": "8g",
+        "fat_grams": "7g",
+        "fiber_grams": "2.5g",
+        "sodium_mg": "290mg",
+        "note": "These values are estimates based on 1 pound of fresh green beans and 2 tablespoons of olive oil divided among 4 servings. Values will vary slightly based on exact olive oil amount used and whether salt is added during blanching."
+    },
+    "storage_and_reheating": {
+        "refrigerator_storage": "Store cooked green beans in an airtight container for up to 3 days. The beans will lose some of their crisp-tender texture as they cool and sit, becoming slightly softer but still edible. Flavor actually improves slightly after one day as seasoning continues to penetrate.",
+        "freezer_storage": "Green beans can be frozen for up to 2 months if blanched first (step 2-3) before being coated with oil and seasonings. Freeze in a single layer on a baking sheet, then transfer to a freezer bag once solid. Cooked, oil-coated beans do not freeze as successfully and become mushy upon thawing.",
+        "reheating_method": "Reheat gently in a skillet over medium heat with a splash of additional oil or butter, stirring occasionally, for 3-5 minutes until warmed through. Avoid using high heat or the microwave, which can overcook the beans further. The stovetop method allows you to monitor texture and avoid mushiness. Alternatively, serve cold green beans as a salad component.",
+        "make_ahead_tip": "Blanch the beans the morning of serving and store in the refrigerator in an airtight container. Finish sautéing them 15-20 minutes before serving for the best texture and flavor. This approach allows you to prepare ahead while ensuring crisp-tender texture at serving time."
+    },
+    "faq": [
+        {
+            "question": "Why are my green beans mushy even though I cooked them for a short time?",
+            "answer": "This indicates the heat was too high or the beans were overcrowded in the pan, trapping steam. Moisture and high heat soften cell walls very quickly. Reduce heat to medium or medium-high, ensure the pan is not crowded, and consider blanching first if you want more texture control. Mushy beans can also indicate older beans that have lost moisture and cook faster than fresh ones."
+        },
+        {
+            "question": "Can I blanch the green beans ahead of time and finish them later?",
+            "answer": "Yes. Blanch and shock the beans (steps 2-3) up to 24 hours ahead. Store them in an airtight container in the refrigerator. When ready to serve, pat them dry and sauté them in step 4-7. This allows you to do prep work early and finish cooking just before serving."
+        },
+        {
+            "question": "How do I know if my green beans are cooked enough?",
+            "answer": "Test by bending a bean or biting into one. A properly cooked green bean should bend easily without snapping, and should be tender when bitten, but still have slight resistance—not mushy. If you prefer firmer beans, stop cooking earlier. If you prefer softer beans, cook a bit longer. Texture preference is personal."
+        },
+        {
+            "question": "Can I use frozen green beans instead of fresh?",
+            "answer": "Yes, though texture will be slightly different. Frozen beans are pre-blanched and have already undergone some softening. Skip the blanching step and go directly to step 4. Frozen beans typically need only 4-6 minutes of sautéing rather than 7-8 minutes. Thaw them first and pat completely dry to allow browning."
+        },
+        {
+            "question": "Why did my green beans turn gray-green or olive-colored instead of staying bright green?",
+            "answer": "This happens when chlorophyll in the beans is exposed to heat and acid (from tomatoes, vinegar, or lemon juice) or when beans are cooked uncovered for extended time. To preserve bright green color, blanch first and shock in ice water, or cook quickly over higher heat so chlorophyll doesn't have time to degrade. Adding lemon juice or acidic ingredients after cooking, not during, helps preserve color."
+        },
+        {
+            "question": "Can I add garlic or other seasonings to the blanching water?",
+            "answer": "Yes, you can add salt and other seasonings to blanching water. However, delicate seasonings like fresh herbs or garlic lose flavor during boiling. It's better to add these after blanching, during the sauté step, when they can contribute more distinct flavor."
+        }
+    ],
+    "conclusion": "The most important insight about cooking green beans is understanding that texture depends on temperature control and timing, not on ingredients or complexity. Master the fundamental technique of blanching and sautéing, understand why each step matters, and you can adjust this recipe endlessly to match any flavor profile or dietary preference. The science remains constant: manage heat properly, control cooking time carefully, and taste frequently to understand what different cooking stages produce. These principles apply far beyond green beans to any vegetable cooking. Once you understand texture and how to control it, you become a far more confident cook.",
+    "internal_links": [
+        {
+            "anchor": "understanding cell structure in vegetables",
+            "url": "\/posts\/vegetable-cell-structure-cooking"
+        },
+        {
+            "anchor": "the Maillard reaction and browning",
+            "url": "\/posts\/maillard-reaction-browning-cooking"
+        },
+        {
+            "anchor": "blanching and shocking technique guide",
+            "url": "\/posts\/blanching-shocking-vegetables-technique"
+        },
+        {
+            "anchor": "green vegetable color preservation cooking",
+            "url": "\/posts\/preserve-green-color-vegetables-cooking"
+        }
+    ],
+    "category_id": "cat_1761229889_885",
+    "generation_metadata": {
+        "voice": "Experienced Home Cook",
+        "complexity": "easy",
+        "target_words": "1300+",
+        "authenticity_focus": "high",
+        "e_eat_priority": "expertise_authority_trustworthiness",
+        "rewritten_at": "2026-01-28"
+    },
+    "author_id": "author_001",
     "images": [
         {
             "fileName": "best-green-bean-recipe-for-healthy-families_image_1.webp",
             "filePath": "recipes\/best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_1.webp",
             "relativePath": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_1.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes-main\/tmpIMG\/image_1.webp",
-            "order": 1
+            "order": 1,
+            "alt_text": "Fresh green beans with stem ends trimmed, arranged on white cutting board, ready for blanching"
         },
         {
             "fileName": "best-green-bean-recipe-for-healthy-families_image_2.webp",
             "filePath": "recipes\/best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_2.webp",
             "relativePath": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_2.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes-main\/tmpIMG\/image_2.webp",
-            "order": 2
+            "order": 2,
+            "alt_text": "Green beans being sautéed in stainless steel skillet with light golden-brown coloring developing on surfaces"
         },
         {
             "fileName": "best-green-bean-recipe-for-healthy-families_image_3.webp",
             "filePath": "recipes\/best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_3.webp",
             "relativePath": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_3.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes-main\/tmpIMG\/image_3.webp",
-            "order": 3
+            "order": 3,
+            "alt_text": "Finished green beans in white serving bowl, bright green with light browning, garnished with fresh herbs"
         },
         {
             "fileName": "best-green-bean-recipe-for-healthy-families_image_4.webp",
@@ -137,14 +241,15 @@
             "relativePath": "best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_4.webp",
             "originalUrl": "http:\/\/localhost\/SitePinterset\/LummyRecipes-main\/recipes\/best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_4.webp",
             "order": 4,
-            "type": "template"
+            "type": "template",
+            "alt_text": "Crisp-tender green beans served on rustic ceramic plate with lemon wedge, kitchen setting in background"
         }
     ],
     "image": "best-green-bean-recipe-for-healthy-families_image_1.webp",
     "image_path": "recipes\/best-green-bean-recipe-for-healthy-families\/images\/best-green-bean-recipe-for-healthy-families_image_1.webp",
     "image_dir": "best-green-bean-recipe-for-healthy-families\/images",
-    "generated_from_text": true,
+    "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2025-11-11T19:28:17+01:00",
-    "updatedAt": "2025-11-11T19:28:17+01:00"
+    "updatedAt": "2026-01-28T14:32:00+01:00"
 }
