@@ -20,7 +20,7 @@
         "¼ teaspoon (1.5g) fine sea salt",
         "Freshly ground black pepper to taste"
     ],
-    "why_this_recipe_works": "<p>This salad works because it creates textural and flavor contrast through four distinct components that don't compete. The science here isn't about heat or chemical reactions—it's about understanding how ingredients interact at room temperature and how timing affects texture preservation.</p><p>The greens provide a bitter, slightly peppery base. Arugula contains glucosinolates, sulfur-containing compounds that create its characteristic bite. Spinach is milder because it lacks these compounds, instead containing oxalic acid that gives it a mineral, earthy quality. Together, they create complexity without requiring additional seasoning.</p><p>Citrus segments contribute two critical elements: acidity and natural sugar. Oranges have a pH around 3.5-4.0, which is acidic enough to brighten flavors but not so acidic that it overwhelms. The natural fructose and glucose in oranges (about 9-10g per 100g of fruit) balance the acid, creating perceived sweetness without adding refined sugar. This balance is why citrus works in salads while lemon juice alone would taste harsh.</p><p>Pecans add fat and crunch. Toasting them at medium heat (around 350°F/175°C) triggers the Maillard reaction in the nuts' proteins and sugars, creating hundreds of new flavor compounds. The toasting also drives off moisture, making the pecans crispier. Raw pecans contain about 70% fat, mostly heart-healthy monounsaturated fats, which create richness that balances the greens' bitterness.</p><p>Feta contributes creaminess and salt. The cheese's fat content (around 21g per 100g) coats your palate, while its sodium content (about 1,100mg per 100g) seasons the entire salad. This is why you can use minimal additional salt in the dressing—the feta distributes seasoning naturally as you toss the salad.</p><p>The dressing's oil-to-vinegar ratio (2:1 instead of the classic 3:1) works because the orange segments release additional juice when tossed. This juice effectively dilutes the dressing, so starting with a higher vinegar concentration prevents the final salad from tasting flat. The chemistry of emulsification is minimal here—you're creating a temporary suspension of oil in vinegar rather than a stable emulsion, which is appropriate for immediate consumption.</p>",
+    "why_this_recipe_works": "<p>This salad works because it creates textural and flavor contrast through four distinct components that don't compete. The science here isn't about heat or chemical reactions—it's about understanding how ingredients interact at room temperature and how timing affects texture preservation.<\/p><p>The greens provide a bitter, slightly peppery base. Arugula contains glucosinolates, sulfur-containing compounds that create its characteristic bite. Spinach is milder because it lacks these compounds, instead containing oxalic acid that gives it a mineral, earthy quality. Together, they create complexity without requiring additional seasoning.<\/p><p>Citrus segments contribute two critical elements: acidity and natural sugar. Oranges have a pH around 3.5-4.0, which is acidic enough to brighten flavors but not so acidic that it overwhelms. The natural fructose and glucose in oranges (about 9-10g per 100g of fruit) balance the acid, creating perceived sweetness without adding refined sugar. This balance is why citrus works in salads while lemon juice alone would taste harsh.<\/p><p>Pecans add fat and crunch. Toasting them at medium heat (around 350°F\/175°C) triggers the Maillard reaction in the nuts' proteins and sugars, creating hundreds of new flavor compounds. The toasting also drives off moisture, making the pecans crispier. Raw pecans contain about 70% fat, mostly heart-healthy monounsaturated fats, which create richness that balances the greens' bitterness.<\/p><p>Feta contributes creaminess and salt. The cheese's fat content (around 21g per 100g) coats your palate, while its sodium content (about 1,100mg per 100g) seasons the entire salad. This is why you can use minimal additional salt in the dressing—the feta distributes seasoning naturally as you toss the salad.<\/p><p>The dressing's oil-to-vinegar ratio (2:1 instead of the classic 3:1) works because the orange segments release additional juice when tossed. This juice effectively dilutes the dressing, so starting with a higher vinegar concentration prevents the final salad from tasting flat. The chemistry of emulsification is minimal here—you're creating a temporary suspension of oil in vinegar rather than a stable emulsion, which is appropriate for immediate consumption.<\/p>",
     "instructions": [
         {
             "step": 1,
@@ -203,7 +203,7 @@
             "url": "[LINK: nut-toasting-guide]"
         }
     ],
-    "category_id": "cat_1761230636_499",
+    "category_id": "cat_1761229712_965",
     "generation_metadata": {
         "voice": "Experienced Home Cook",
         "complexity": "easy",
@@ -216,33 +216,33 @@
     "images": [
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_1.webp",
             "alt_text": "Mixed greens with orange segments and toasted pecans arranged in a large bowl, ready for salad assembly",
             "order": 1
         },
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_2.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_2.webp",
             "alt_text": "Close-up of finished winter salad showing texture of crumbled feta, pecan pieces, and orange segments",
             "order": 2
         },
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_3.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_3.webp",
             "alt_text": "Hands tossing the assembled salad with wooden serving utensils, showing dressing being distributed",
             "order": 3
         },
         {
             "fileName": "colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
-            "filePath": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
-            "relativePath": "colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs/recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
+            "filePath": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
+            "relativePath": "colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs\/recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_EasyRecipesLabs_image_4.webp",
             "alt_text": "Finished winter salad plated in a rustic ceramic bowl with natural window lighting",
             "order": 4,
             "type": "template"
@@ -251,8 +251,8 @@
     "slug": "colorful-winter-salad-for-healthy-parties",
     "id": "recipe_1763313160_687",
     "image": "colorful-winter-salad-for-healthy-parties_image_1.webp",
-    "image_path": "recipes/colorful-winter-salad-for-healthy-parties/images/colorful-winter-salad-for-healthy-parties_image_1.webp",
-    "image_dir": "colorful-winter-salad-for-healthy-parties/images",
+    "image_path": "recipes\/colorful-winter-salad-for-healthy-parties\/images\/colorful-winter-salad-for-healthy-parties_image_1.webp",
+    "image_dir": "colorful-winter-salad-for-healthy-parties\/images",
     "generated_from_text": false,
     "has_rich_structure": true,
     "createdAt": "2026-01-04T16:29:18+01:00",

@@ -200,7 +200,7 @@
         "fat_grams": "24g",
         "fiber_grams": "2g",
         "sodium_mg": "280mg",
-        "note": "These values are estimates based on standard ingredients and will vary depending on exact brand selections, pecan size, and crust composition. Values are calculated for one slice (1/8 of pie). Nutritional information is approximate and provided for informational purposes only."
+        "note": "These values are estimates based on standard ingredients and will vary depending on exact brand selections, pecan size, and crust composition. Values are calculated for one slice (1\/8 of pie). Nutritional information is approximate and provided for informational purposes only."
     },
     "storage_and_reheating": {
         "room_temperature": "A freshly baked, fully cooled pie keeps well at room temperature for about 2 days, covered with a cake dome or loosely with plastic wrap. Don't seal it too tightly or condensation will collect on top and make the crust soggy. Keep it away from direct sunlight and warm spots in your kitchen. The flavor remains most vibrant at room temperature.",
@@ -251,7 +251,7 @@
             "anchor": "baking_basics"
         }
     ],
-    "category_id": "cat_1761230294_638",
+    "category_id": "cat_1761229712_965",
     "generation_metadata": {
         "voice": "Experienced Home Cook",
         "complexity": "Medium",
@@ -265,33 +265,33 @@
     "images": [
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-            "filePath": "recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_1.webp",
+            "filePath": "recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
+            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_1.webp",
             "order": 1,
             "alt_text": "Whisking corn syrup, brown sugar, eggs, and melted butter together in a large bowl until mixture is smooth and uniform in color"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
-            "filePath": "recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
-            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_2.webp",
+            "filePath": "recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
+            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_2.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_2.webp",
             "order": 2,
             "alt_text": "Sliced pecan pie showing golden crust, evenly set custard filling with pecans suspended throughout, clean slice edges"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
-            "filePath": "recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
-            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs-main/tmpIMG/image_3.webp",
+            "filePath": "recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
+            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_3.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs-main\/tmpIMG\/image_3.webp",
             "order": 3,
             "alt_text": "Unbaked pie crust fitted in 9-inch pie dish, showing even fit against sides and bottom without air pockets"
         },
         {
             "fileName": "best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
-            "filePath": "recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
-            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
-            "originalUrl": "http://localhost/SitePinterset/EasyRecipesLabs/recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
+            "filePath": "recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
+            "relativePath": "best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
+            "originalUrl": "http:\/\/localhost\/SitePinterset\/EasyRecipesLabs\/recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_EasyRecipesLabs_image_4.webp",
             "order": 4,
             "type": "template",
             "alt_text": "Whole baked pecan pie with golden crust in ceramic pie dish, ready to cool and set"
@@ -325,8 +325,8 @@
     "slug": "best-classic-southern-pecan-pie-for-holiday-gatherings",
     "id": "recipe_1765300025_593",
     "image": "best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-    "image_path": "recipes/best-classic-southern-pecan-pie-for-holiday-gatherings/images/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
-    "image_dir": "best-classic-southern-pecan-pie-for-holiday-gatherings/images",
+    "image_path": "recipes\/best-classic-southern-pecan-pie-for-holiday-gatherings\/images\/best-classic-southern-pecan-pie-for-holiday-gatherings_image_1.webp",
+    "image_dir": "best-classic-southern-pecan-pie-for-holiday-gatherings\/images",
     "generated_from_text": false,
     "has_rich_structure": true,
     "schema_type": "Recipe",
