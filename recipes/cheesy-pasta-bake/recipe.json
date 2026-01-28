@@ -1,0 +1,276 @@
+{
+    "id": "text_recipe_1762477346_984",
+    "slug": "cheesy-pasta-bake",
+    "title": "Cheesy Pasta Bake: Managing Sauce Absorption and Cheese Browning",
+    "promptIMG": "Professional food photography prompt: \"cheesy pasta bake in ceramic baking dish showing melted cheese and pasta layers, natural food photography, balanced sharp focus, zero blur throughout entire image, infinite depth of field, realistic food textures showing bubbling cheese and pasta, modern kitchen background in sharp focus, natural window lighting, kitchen countertop visible, even focus distribution, documentary food photography style, professional food styling --no blur, depth of field, bokeh, over-sharpening, artificial enhancement --quality 2 --ar 4:3 --stylize 300\"",
+    "isOnline": true,
+    "description": "A guide to making cheesy pasta bake that balances sauce absorption with proper cheese distribution and browning. Learn how pasta texture affects final results, why ricotta differs from mozzarella, and techniques for preventing a watery or dry bake.",
+    "hashtags": "#pastabake #cheesypasta #bakerecipe #comfortfood #homemade",
+    "category_id": "cat_1761230383_494",
+    "author_id": "author_001",
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "servings": 6,
+    "yield": "One 9x13-inch (23x33cm) baking dish, 6 servings",
+    "difficulty": "easy",
+    "ingredients": [
+        "12 oz (340g) pasta (penne, rigatoni, or rotini preferred)",
+        "2.5 cups (600ml) marinara sauce, store-bought or homemade",
+        "15 oz (425g) whole milk ricotta cheese, room temperature",
+        "2 cups (200g) shredded mozzarella cheese, low-moisture preferred",
+        "1/2 cup (50g) grated Parmesan cheese",
+        "1 large egg (50g)",
+        "2 cloves (10g) garlic, minced",
+        "1 tsp (2g) dried Italian seasoning, or 1 tbsp (3g) fresh mixed herbs",
+        "1/2 tsp (3g) fine sea salt",
+        "1/4 tsp (0.5g) black pepper",
+        "Pinch of nutmeg, optional (enhances richness)",
+        "1 tbsp (15ml) extra virgin olive oil for drizzling"
+    ],
+    "why_this_recipe_works": "<p>Cheesy pasta bake's success depends on balancing three competing forces: sauce absorption, cheese distribution, and controlled browning. Understanding how each works prevents a dish that's either watery and soupy or dry and tough.</p><p>Pasta is primarily starch and protein. When cooked, the starch granules absorb water and swell, softening the pasta. However, pasta doesn't stop absorbing liquid after cooking—it continues absorbing moisture from the sauce even after it's drained. This is crucial: if you cook pasta completely to the soft, tender stage, then add sauce and bake, the pasta will absorb additional moisture and become mushy and overcooked. This is why cooks use the term 'al dente'—pasta cooked just to the point where the very center still has slight firmness. Al dente pasta (approximately 1 minute less than package directions) provides a buffer. During the 30 minutes of baking, the pasta absorbs additional sauce and reaches optimal tenderness without becoming mushy. If you cook pasta fully tender before mixing with sauce, it will overcook during baking.</p><p>Ricotta and mozzarella behave very differently during heating. Ricotta is a fresh cheese made from whey (the liquid byproduct of mozzarella production). It contains approximately 75% water and sets when heated to approximately 160-180°F (71-82°C). When mixed into the pasta-sauce mixture, ricotta acts as a binder and creates a creamy sauce. It doesn't melt into strings like mozzarella; instead, it incorporates throughout the mixture, creating a smooth texture. Mozzarella, in contrast, is a stretched cheese with lower water content (approximately 50% water). When heated above 130°F (54°C), mozzarella melts and becomes stretchy. Above 300°F (149°C), it browns through the Maillard reaction, creating the characteristic golden-brown crispy top.</p><p>The proportions matter significantly. Using ricotta alone creates a creamy but somewhat bland interior. Using mozzarella alone creates a stringy, somewhat one-dimensional texture. The combination—ricotta for creaminess and binding, mozzarella for stretchiness and browning, Parmesan for sharpness and additional browning—creates the ideal texture and flavor balance. The egg in the ricotta mixture acts as a binder, helping the ricotta set more firmly during baking, preventing it from separating.</p><p>Sauce amount is critical but often misunderstood. Too little sauce and the pasta dries out during baking; too much sauce and the dish becomes soupy. The ideal is enough sauce to coat all the pasta and provide moisture for absorption, but not so much that pools of sauce form. As a rule, pasta-to-sauce ratio should be approximately 1:1 by weight (12 oz pasta to 12 oz sauce equivalent). The 2.5 cups (600ml) marinara sauce specified here is approximately 20 oz, which accounts for the sauce that clings to the pasta during draining (approximately 2-3 oz) plus the sauce needed to coat and bake.</p><p>Finally, the baking temperature and time must be precise. At 375°F (190°C), the pasta continues cooking and the ricotta sets fully within approximately 25-30 minutes. The cheese topping browns in the last 5-10 minutes as the oven temperature is high enough for browning but not so high that the edges burn before the center finishes cooking. A temperature higher than 400°F (205°C) risks browning the top before the center heats through; lower than 350°F (175°C) means the cheese doesn't brown and may look pale and unappetizing.</p>",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 375°F (190°C) and position the oven rack in the middle. A fully preheated oven ensures even heat distribution around the baking dish. While the oven preheats, lightly coat a 9x13-inch (23x33cm) baking dish with olive oil or non-stick spray. The coating prevents the baked pasta from sticking to the dish and makes cleanup easier. The oven needs approximately 15 minutes to fully preheat and stabilize at the target temperature.",
+            "timing": "15 minutes",
+            "doneness_cue": "Oven thermometer confirms 375°F (190°C), baking dish is lightly coated and ready"
+        },
+        {
+            "step": 2,
+            "instruction": "Bring a large pot of salted water to a boil. The water should taste like seawater—approximately 1 tablespoon (18g) of salt per 1 gallon (4 liters) of water. Salted water seasons the pasta as it cooks. Once the water reaches a rolling boil, add the pasta and cook according to package instructions, but reduce the time by 1 minute. For example, if the package says 11 minutes, cook for 10 minutes. You're aiming for al dente—pasta that's tender when bitten but still has a slight firmness in the very center. This will feel slightly underdone when you taste it, but this is correct. The pasta will continue cooking and absorbing sauce during the 30-minute bake.",
+            "timing": "Approximately 9-12 minutes depending on pasta type",
+            "doneness_cue": "Pasta is tender but has slight firmness when bitten, no soft mushiness, fork should require slight pressure to break a noodle"
+        },
+        {
+            "step": 3,
+            "instruction": "Drain the pasta in a colander and set it aside. Do not rinse the pasta with water—the starch clinging to the pasta helps the sauce coat and adhere. If you rinse, you'll wash away this starch and the sauce will slide off the pasta. The warm, drained pasta is now ready to mix with the sauce and cheese mixture.",
+            "timing": "1 minute",
+            "doneness_cue": "Pasta is drained, some moisture remains clinging to the noodles, no standing water in the colander"
+        },
+        {
+            "step": 4,
+            "instruction": "While the pasta cooks, prepare the ricotta mixture. In a medium bowl, combine the room temperature ricotta cheese, egg, minced garlic, Italian seasoning, salt, pepper, and nutmeg (if using). Ricotta should be at room temperature so it incorporates smoothly into the pasta mixture—cold ricotta from the refrigerator will be stiff and difficult to mix evenly. Stir this mixture for approximately 1 minute until everything is well combined. The mixture should look uniform and creamy with no visible clumps of ricotta. The egg acts as a binder, helping the ricotta set firmly during baking rather than separating.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Ricotta mixture is uniform and creamy, no visible cheese lumps or egg streaks, mixture is relatively smooth"
+        },
+        {
+            "step": 5,
+            "instruction": "In a large bowl (you can use the pasta pot if clean), combine the warm drained pasta, marinara sauce, and the ricotta mixture. Using a large spoon or wooden spoon, stir gently but thoroughly until everything is combined. The pasta should be evenly coated with sauce, and the ricotta should be distributed throughout. Stirring ensures that each noodle gets coated and the ricotta is incorporated evenly. If you skip this step or stir insufficiently, you'll have some sections with too much ricotta, others with too little, creating uneven texture in the final bake.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "All pasta is coated with sauce, ricotta is distributed throughout, no visible white ricotta clumps or patches of bare pasta"
+        },
+        {
+            "step": 6,
+            "instruction": "Pour the pasta-sauce-ricotta mixture into the prepared baking dish and spread it evenly using a spatula or the back of a spoon. The mixture should fill the dish relatively evenly with no large air pockets. If the baking dish isn't completely full, that's fine—the pasta will expand slightly during baking. At this point, taste a small spoonful and adjust seasoning if needed. Remember, the 1/2 cup (50g) Parmesan will add saltiness, so taste before adding additional salt.",
+            "timing": "2 minutes",
+            "doneness_cue": "Pasta mixture is evenly distributed in the baking dish, relatively level on top, no large air pockets visible"
+        },
+        {
+            "step": 7,
+            "instruction": "Distribute the shredded mozzarella evenly over the top of the pasta mixture, spreading it so all areas are covered. Then sprinkle the Parmesan cheese evenly over the mozzarella. The combination of both cheeses creates the ideal topping: mozzarella provides the stretchy, melted texture, while Parmesan adds sharpness and browns for a crispy, golden top. If you use only mozzarella, the top will be less interesting texturally and less browned. If you use only Parmesan, it may brown too quickly and become hard before the interior heats through.",
+            "timing": "1-2 minutes",
+            "doneness_cue": "All mozzarella is evenly distributed with no bare patches, Parmesan is scattered evenly on top, cheese layer is approximately 1/2 inch (1.25cm) thick"
+        },
+        {
+            "step": 8,
+            "instruction": "Drizzle the olive oil lightly over the cheese top. This oil promotes browning and helps the cheese brown evenly and develop flavor. Place the baking dish in the preheated 375°F (190°C) oven in the center position. The center of the oven provides the most even heat distribution around the dish.",
+            "timing": "0 minutes (immediate baking)",
+            "doneness_cue": "Oil is drizzled on cheese, dish is placed in center of oven, oven door is closed"
+        },
+        {
+            "step": 9,
+            "instruction": "Bake for 25-30 minutes. At the 25-minute mark, check for doneness. The cheese should be melted and the edges should be bubbly—you'll see the sauce bubbling slightly around the edges of the dish. The top should be golden-brown, showing browning on the Parmesan and mozzarella both. The mozzarella should look slightly glossy and melted, not pale and uncooked. If the top looks pale, bake for another 2-3 minutes. If the cheese is deeply browned but the edges aren't bubbly yet, the dish may need another 2-3 minutes despite the appearance of the top. The bubbling indicates the pasta has finished cooking and the ricotta has set.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Cheese is melted and golden-brown on top, sauce is bubbling around the edges, top feels firm when lightly pressed (carefully), no pale or uncooked-looking cheese visible"
+        },
+        {
+            "step": 10,
+            "instruction": "Remove the baking dish from the oven carefully—it's very hot. Place it on a heat-safe surface or wire cooling rack and let it rest for 5 minutes before serving. This resting time allows the filling to set slightly, making it easier to serve and less likely to fall apart on the plate. The ricotta continues to firm up slightly as it cools. After 5 minutes, the pasta bake is ready to serve. Use a sharp spoon or spatula to cut portions directly from the dish, or transfer to individual plates.",
+            "timing": "5 minutes",
+            "doneness_cue": "Pasta bake has cooled slightly but is still hot, edges have stopped actively bubbling, interior is set enough to cut cleanly"
+        }
+    ],
+    "pro_tips": [
+        {
+            "tip": "Cook pasta to al dente, not fully tender. It will absorb additional sauce and continue cooking during baking, reaching perfect tenderness by the time it's done.",
+            "reason": "Pasta continues absorbing liquid during baking. If you cook it fully tender before mixing with sauce, it will overcook during the 30-minute bake and become mushy. Al dente pasta provides a buffer—the slight firmness allows it to absorb sauce while remaining tender but not overcooked."
+        },
+        {
+            "tip": "Use room temperature ricotta, not cold. Cold ricotta is stiff and won't incorporate smoothly into the pasta mixture.",
+            "reason": "Cold ricotta has different viscosity and texture than the other ingredients. Room temperature ricotta incorporates smoothly and evenly. If you forget to let it warm, place the ricotta container in a bowl of warm water for 5-10 minutes before using."
+        },
+        {
+            "tip": "Don't rinse the cooked pasta. The starch clinging to the noodles helps the sauce coat and adhere.",
+            "reason": "Starch is a natural binder. Rinsing washes it away and causes the sauce to slide off during mixing. The pasta will taste bland and the final bake will have less sauce throughout."
+        },
+        {
+            "tip": "Use low-moisture mozzarella for the topping, not fresh mozzarella. Fresh mozzarella releases moisture and can make the top watery.",
+            "reason": "Low-moisture mozzarella (sometimes labeled 'cheese for cooking') contains approximately 50% water, while fresh mozzarella contains 60%+. The lower water content allows proper browning without excess moisture. Fresh mozzarella would make the top weep liquid."
+        },
+        {
+            "tip": "Don't skip the egg in the ricotta mixture. It acts as a binder and helps the ricotta set firmly during baking.",
+            "reason": "Without the egg, ricotta can remain slightly separated and looser in texture. The egg's protein coagulates during heating, which firms up the ricotta and creates a more cohesive interior texture."
+        },
+        {
+            "tip": "Check the pasta bake at 25 minutes rather than waiting the full 30. Every oven is different, and checking early prevents overbaking.",
+            "reason": "Oven temperatures vary by 25°F (14°C) or more. Starting to check at 25 minutes lets you catch it at the perfect doneness for your oven. Once it's overcooked, it can't be fixed."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking pasta to fully tender before mixing with sauce, resulting in mushy, overcooked pasta in the final bake",
+            "why_it_happens": "People think the pasta is 'done' when it reaches full tenderness during the initial boil. They don't realize the pasta will continue absorbing sauce and cooking during the 30-minute bake.",
+            "fix": "Cook pasta 1 minute less than package directions, to the al dente stage. During baking, it will absorb sauce and reach perfect tenderness. If you've already cooked the pasta too soft, the dish is difficult to fix—you'd need to remake it using properly cooked pasta."
+        },
+        {
+            "mistake": "Using too much sauce, resulting in a watery, soupy pasta bake rather than a creamy, cohesive dish",
+            "why_it_happens": "People think 'more sauce = better' and add extra marinara. Too much sauce makes the pasta absorb liquid faster than it can cook, leaving the dish wet and soupy.",
+            "fix": "Use approximately 2.5 cups (600ml) marinara for 12 oz (340g) pasta. If you've already added too much sauce, you can drain some out before baking, or add extra pasta to absorb the liquid."
+        },
+        {
+            "mistake": "Using cold ricotta straight from the refrigerator, resulting in lumpy texture and uneven distribution of ricotta in the final bake",
+            "why_it_happens": "Cold ricotta is stiff and doesn't blend smoothly into the pasta mixture. People don't realize temperature affects texture.",
+            "fix": "Let ricotta warm to room temperature (approximately 70°F / 21°C) before mixing—this takes 20-30 minutes or can be sped up by placing the container in warm water for 5-10 minutes. If you've already mixed it and it's lumpy, blend it briefly with a hand blender to smooth it out."
+        },
+        {
+            "mistake": "Rinsing the cooked pasta, removing the starch that helps sauce cling to the noodles",
+            "why_it_happens": "People think rinsing is necessary to stop cooking or prevent sticking, not realizing starch serves a function.",
+            "fix": "Don't rinse. The starch is desirable—it's a natural binder that helps sauce coat the pasta. Starch also helps the final bake have good texture and sauce distribution."
+        },
+        {
+            "mistake": "Not mixing the pasta-sauce-ricotta combination thoroughly, resulting in some sections having too much ricotta and others having barely any",
+            "why_it_happens": "People stir quickly or insufficiently, assuming the ingredients will distribute during baking. They don't realize initial mixing is crucial.",
+            "fix": "Stir the pasta-sauce-ricotta mixture for approximately 2-3 minutes using a large spoon, ensuring every section is touched and ricotta is distributed throughout. This takes only a few minutes and ensures uniform texture in the final dish."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spinach and Meat Pasta Bake",
+            "description": "Add 1 cup (150g) chopped fresh spinach (or 10 oz frozen spinach, thawed and squeezed dry) and 1 lb (450g) ground beef or Italian sausage (browned and drained) to the pasta-sauce-ricotta mixture in step 5. The spinach adds earthiness and nutrition, while ground meat adds richness and protein. This transforms the bake from a vegetarian dish to a more substantial main course.",
+            "technical_note": "If using frozen spinach, thaw it completely and squeeze out all moisture—excess water makes the bake watery. Browning the meat and draining fat prevents the final dish from being greasy. This variation increases the bulk of the mixture slightly, so it may bake 2-3 minutes longer."
+        },
+        {
+            "name": "Béchamel-Based Pasta Bake",
+            "description": "Replace the ricotta mixture with a béchamel sauce: melt 3 tablespoons (45g) butter over medium heat, whisk in 3 tablespoons (24g) flour, cook for 1 minute (the roux), then gradually add 2 cups (480ml) whole milk while whisking constantly until thickened. Add the minced garlic, salt, pepper, and nutmeg. Mix this béchamel with the pasta and marinara sauce instead of the ricotta mixture. The béchamel creates a creamier, more luxurious interior with lighter texture than ricotta.",
+            "technical_note": "Béchamel requires more technique than ricotta, but creates a different texture entirely. The roux (butter and flour paste) must be cooked for 1 minute but not browned. Milk must be added gradually while whisking to prevent lumps. This variation is more traditional in classic lasagna preparations."
+        },
+        {
+            "name": "Creamy Mushroom and Garlic Pasta Bake",
+            "description": "Sauté 12 oz (340g) sliced mushrooms (cremini or baby bella) in 2 tablespoons (30g) butter with 4 cloves (20g) minced fresh garlic for 5-7 minutes until mushrooms release their moisture and it evaporates. Add this to the pasta-sauce-ricotta mixture in step 5. The mushrooms add earthiness and umami depth.",
+            "technical_note": "Sauté mushrooms completely—they should lose their moisture and smell rich and concentrated, not watery. Fresh garlic tastes better than garlic powder in this variation. The mushrooms' umami compounds complement the cheese and sauce beautifully."
+        },
+        {
+            "name": "Simple Cheese Pasta Bake (No Meat or Vegetables)",
+            "description": "Use the exact recipe as written without adding any meat or vegetables. Increase the Parmesan to 3/4 cup (75g) for more sharp cheese flavor. This version emphasizes the pure flavor of cheese and pasta without other flavors competing.",
+            "technical_note": "This is the most straightforward version and highlights the pasta, sauce, and cheese balance perfectly. Without additional ingredients, the pasta texture and sauce absorption matter even more—make sure to cook pasta to al dente and use the correct sauce amount."
+        },
+        {
+            "name": "White Wine and Broccoli Pasta Bake",
+            "description": "Add 3 cups (300g) fresh broccoli florets (or frozen, thawed) to the pasta-sauce-ricotta mixture. Replace 1/2 cup (120ml) of the marinara sauce with 1/2 cup (120ml) dry white wine (such as Pinot Grigio). The broccoli adds texture and nutrition, while the white wine adds brightness and acidity that balances the richness of the cheese.",
+            "technical_note": "Broccoli should be cut into small florets so it distributes throughout. The wine's alcohol cooks off during baking, leaving behind its subtle flavor. The white wine is optional—you can use additional marinara sauce if you prefer."
+        }
+    ],
+    "nutrition": {
+        "servings": 6,
+        "calories_per_serving": "approximately 480",
+        "protein_grams": "26g",
+        "carbohydrates_grams": "48g",
+        "fat_grams": "18g",
+        "fiber_grams": "3g",
+        "sodium_mg": "920mg",
+        "note": "These values are estimates and will vary based on the specific marinara sauce brand used (sodium varies significantly), the fat content of cheeses, and any variations added. Values assume low-moisture mozzarella and store-bought marinara sauce. Homemade sauce typically has lower sodium."
+    },
+    "storage_and_reheating": {
+        "refrigerator_storage": "Store completely cooled pasta bake in an airtight container in the refrigerator for up to 4 days. The pasta will gradually absorb more sauce as it sits, which is desirable—the flavors deepen. Slicing and serving directly from the container works well.",
+        "freezer_storage": "Freeze the pasta bake in the original baking dish (or transfer to a freezer-safe container) for up to 3 months. Cool completely before freezing. Thaw in the refrigerator overnight before reheating, or reheat directly from frozen.",
+        "reheating_method": "Reheat refrigerated pasta bake in a 350°F (175°C) oven, covered with foil, for 15-20 minutes until heated through. If reheating from frozen, increase time to 30-40 minutes, still covered with foil. Remove foil in the last 5 minutes if you want the top to crisp slightly. Do not use a microwave, as it makes the cheese rubbery and the texture uneven.",
+        "make_ahead_tip": "Assemble the pasta bake completely through step 7 (cheese topping added) up to 24 hours ahead and refrigerate unbaked. Bake directly from the refrigerator; add 3-5 minutes to baking time since the dish is cold. This approach spreads the work across two days—prepare one day, bake the next."
+    },
+    "faq": [
+        {
+            "question": "Why is my pasta bake watery and soupy instead of creamy?",
+            "answer": "You likely used too much sauce. The ideal ratio is approximately 2.5 cups (600ml) marinara for 12 oz (340g) pasta. If you've already added too much, drain some out before baking. For future bakes, measure carefully. Some marinara sauce brands are thinner than others—if using a thinner sauce, use slightly less."
+        },
+        {
+            "question": "My pasta turned out mushy. What happened?",
+            "answer": "You likely cooked the pasta to full tenderness before mixing with sauce. Pasta absorbs additional liquid during baking and continues cooking. For next time, cook pasta 1 minute less than package directions, to the al dente stage. During the 30-minute bake, it will reach perfect tenderness."
+        },
+        {
+            "question": "Can I use fresh mozzarella instead of low-moisture?",
+            "answer": "Not recommended for the topping. Fresh mozzarella contains too much water (approximately 60%+) and will weep liquid, making the top watery. Use low-moisture mozzarella ('cheese for cooking') which contains about 50% water. For the interior, you can use any type, but low-moisture gives better results."
+        },
+        {
+            "question": "Why is my cheese topping pale instead of golden brown?",
+            "answer": "This indicates either insufficient olive oil (oil promotes browning), an oven temperature that's too low (verify with thermometer), or insufficient baking time. Ensure you drizzle olive oil on the cheese and bake until the cheese is golden-brown. Check at 25 minutes rather than waiting until 30."
+        },
+        {
+            "question": "Can I assemble this ahead of time and bake later?",
+            "answer": "Yes. Assemble completely up to 24 hours ahead and refrigerate unbaked. Bake directly from the refrigerator, adding 3-5 extra minutes to the baking time since the dish is cold. If leaving assembled longer than 24 hours, the pasta continues absorbing sauce and may become mushy—bake within 24 hours."
+        },
+        {
+            "question": "What's the difference between this and lasagna?",
+            "answer": "Lasagna uses layers of noodles, sauce, and cheese, while pasta bake mixes everything together. Pasta bake is faster to assemble and the sauce distributes more evenly throughout. Lasagna has distinct layers of texture. Both are delicious, just different preparations."
+        }
+    ],
+    "conclusion": "Cheesy pasta bake demonstrates that success in baking comes from understanding how ingredients interact—how pasta absorbs liquid, how ricotta sets, how cheese browns. Once you master these principles, you can troubleshoot issues and adapt the recipe to your preferences. The 30 minutes the bake spends in the oven teaches you about carry-over cooking and how residual heat continues the cooking process even after the dish is removed. I'd love to hear how your pasta bake turns out. Share your results or modifications in the comments.",
+    "internal_links": [
+        {
+            "anchor": "pasta cooking techniques and al dente",
+            "url": "/posts/pasta-cooking-al-dente-explained"
+        },
+        {
+            "anchor": "cheese selection and melting properties",
+            "url": "/posts/cheese-guide-cooking-melting"
+        },
+        {
+            "anchor": "sauce absorption in baking",
+            "url": "/posts/sauce-absorption-pasta-baking"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "cheesy-pasta-bake_image_1.webp",
+            "filePath": "recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_1.webp",
+            "relativePath": "cheesy-pasta-bake/images/cheesy-pasta-bake_image_1.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes-main/tmpIMG/image_1.webp",
+            "order": 1,
+            "type": "main",
+            "alt_text": "Ingredients for cheesy pasta bake laid out: pasta, marinara sauce, ricotta, mozzarella, Parmesan, egg, and seasonings with measuring cups"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_2.webp",
+            "filePath": "recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_2.webp",
+            "relativePath": "cheesy-pasta-bake/images/cheesy-pasta-bake_image_2.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes-main/tmpIMG/image_2.webp",
+            "order": 2,
+            "type": "process",
+            "alt_text": "Pasta bake in oven showing bubbling sauce around edges and melted cheese beginning to brown on top"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_3.webp",
+            "filePath": "recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_3.webp",
+            "relativePath": "cheesy-pasta-bake/images/cheesy-pasta-bake_image_3.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes-main/tmpIMG/image_3.webp",
+            "order": 3,
+            "type": "final",
+            "alt_text": "Finished cheesy pasta bake with golden-brown melted cheese top, bubbling at edges, shown in ceramic baking dish"
+        },
+        {
+            "fileName": "cheesy-pasta-bake_image_4.webp",
+            "filePath": "recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_4.webp",
+            "relativePath": "cheesy-pasta-bake/images/cheesy-pasta-bake_image_4.webp",
+            "originalUrl": "http://localhost/SitePinterset/LummyRecipes/recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_4.webp",
+            "order": 4,
+            "type": "template",
+            "alt_text": "Serving of cheesy pasta bake on plate showing creamy interior with pasta coated in sauce and ricotta, golden-brown cheese on top"
+        }
+    ],
+    "image": "cheesy-pasta-bake_image_1.webp",
+    "image_path": "recipes/cheesy-pasta-bake/images/cheesy-pasta-bake_image_1.webp",
+    "image_dir": "cheesy-pasta-bake/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2025-11-07T02:02:26+01:00",
+    "updatedAt": "2026-01-28T14:55:00+01:00"
+}
